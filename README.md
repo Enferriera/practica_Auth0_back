@@ -1,1 +1,7 @@
 # practica_Auth0_back
+
+Variables de entorno:
+AUTH0_AUDIENCE=
+;AUTH0_ISSUER_URI=
+;CORS_ALLOWED_ORIGINS=http://localhost:5173;
+SPRING_SECURITY_LOG_LEVEL=;WEB_SECURITY_DEBUG=true
